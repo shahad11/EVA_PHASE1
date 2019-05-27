@@ -1,3 +1,5 @@
+HOW TO START BUILDING A CNN
+
 1) Number of layers:-
 
   Determining number of layers. even though determining exact number of layers is an iterative process, for a starting we have to consider   some number of layers. 

@@ -28,7 +28,7 @@
   Applying max pooling inorder to reduce the computation aswell as overfitting in the data.
   
 
-9)SoftMax,
+9)SoftMax
 10)Adam vs SGD
 11)Learning Rate:- How fast the model will converge to global minima.
 12Number of Epochs and when to increase them

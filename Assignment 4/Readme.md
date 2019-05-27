@@ -29,25 +29,36 @@
   
 
 9)SoftMax
+
 10)Adam vs SGD
+
 11)Learning Rate:- How fast the model will converge to global minima.
+
 12Number of Epochs and when to increase them
+
 13)When to add validation checks
+
 14)Concept of Transition Layers,
+
 15)Position of Transition Layer
+
 16)Position of MaxPooling,
+
 17)When do we introduce DropOut, or when do we know we have some overfitting
+
 18)Kernels and how do we decide the number of kernels?
+
 19)How do we know our network is not going well, comparatively, very early
+
 20)LR schedule and concept behind it
 
 21)Batch Size, and effects of batch size
 
 22)The distance of MaxPooling from Prediction,
+
 23)The distance of Batch Normalization from Prediction,
+
 24)When do we stop convolutions and go ahead with a larger kernel or some other alternative (which we have not yet covered)
 
   
-  
-
-
+ 

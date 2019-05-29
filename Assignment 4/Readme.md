@@ -1,4 +1,4 @@
-HOW TO START BUILDING A CNN
+Architectural Basics
 
 1) Number of layers:-
 

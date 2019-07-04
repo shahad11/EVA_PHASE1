@@ -5,8 +5,7 @@ output image size as 112. there can be two possibility 1) input image size as 22
 
 ```
 
-(Kernal,p,s)  Operation			Input size		Output size	       RF		
-JumpIN		
+(Kernal,p,s)  Operation			Input size		Output size	       RF		                   JumpIN		
 
 		Start			228			228			1						1
 

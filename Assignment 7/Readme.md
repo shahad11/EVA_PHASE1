@@ -1,6 +1,6 @@
-##GoogLeNet receptive field calculations
+## GoogLeNet receptive field calculations
 
-I have selected input size as 228x228 as we are using 7x7 kernals with strides as 2. i am assuming the padding will be one, to get the 
+>I have selected input size as 228x228 as we are using 7x7 kernals with strides as 2. i am assuming the padding will be one, to get the 
 output image size as 112. there can be two possibility 1) input image size as 224x224 with strides 2 and padding 3 2) above combination
 
 '''

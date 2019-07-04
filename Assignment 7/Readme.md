@@ -1,7 +1,8 @@
 I have selected input size as 228x228 as we are using 7x7 kernals with strides as 2. i am assuming the padding will be one, to get the 
 output image size as 112. there can be two possibility 1) input image size as 224x224 with strides 2 and padding 3 2) above combination
 
-"""
+'''
+
 (Kernal,p,s)  Operation			Input size		Output size	       RF		            		    JumpIN		
 
 		Start			228			228			1						1
@@ -89,4 +90,4 @@ Inception(5b)
 
 			
 
-"""
+'''
